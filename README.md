@@ -4,38 +4,50 @@
 
 ### Desenvolvedor independente • Android • Tradução de mangás
 
-Construindo ferramentas para tornar a leitura e a tradução de mangás mais acessíveis.
+Criador do **Yomotsu**, um leitor Android focado em leitura e tradução integrada de mangás e manhwas.
+
+[![Yomotsu](https://img.shields.io/badge/Projeto-Yomotsu-6C63FF?style=for-the-badge&logo=github)](https://github.com/kiritsuguxs/Yomotsu)
+[![Releases](https://img.shields.io/badge/Baixar-Releases-238636?style=for-the-badge&logo=github)](https://github.com/kiritsuguxs/Yomotsu/releases)
 
 </div>
 
 ---
 
-## Projeto principal
+## 🚀 Projeto principal
 
 ### Yomotsu
 
-Leitor Android baseado no Mihon com recursos de tradução integrados.
+O **Yomotsu** é um leitor Android baseado no Mihon, desenvolvido como um projeto independente com recursos próprios voltados à tradução de mangás e manhwas.
 
-- OCR local com Google ML Kit
-- Tradução por modelos de linguagem
-- Limpeza e reposicionamento das falas nos balões
-- Leitura de mangás, manhwas e capítulos locais
-- Desenvolvimento focado em qualidade visual e facilidade de uso
+- 📖 Leitura de mangás, manhwas e capítulos locais
+- 🔎 Reconhecimento de texto com OCR
+- 🌐 Tradução integrada
+- 🤖 Suporte a Gemini e OpenRouter
+- 🧠 Contexto entre diálogos para traduções mais consistentes
+- 💾 Cache e glossário de tradução
+- 💬 Limpeza e reposicionamento das falas nos balões
+- 🔄 Sistema próprio de atualizações e lançamentos
 
-> O Yomotsu está em desenvolvimento ativo.
+> O Yomotsu está em desenvolvimento ativo e recebe novos recursos e melhorias regularmente.
 
-[![Ver projeto](https://img.shields.io/badge/Ver_projeto-TachiyomiAT-6C63FF?style=for-the-badge&logo=github)](https://github.com/kiritsuguxs/TachiyomiAT)
+<div align="center">
 
-## Tecnologias
+[![Ver Yomotsu](https://img.shields.io/badge/VER_YOMOTSU-6C63FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kiritsuguxs/Yomotsu)
+[![Última versão](https://img.shields.io/badge/ÚLTIMA_VERSÃO-Releases-238636?style=for-the-badge&logo=android&logoColor=white)](https://github.com/kiritsuguxs/Yomotsu/releases/latest)
 
-<p>
+</div>
+
+## 🛠️ Tecnologias
+
+<p align="center">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android">
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/ML_Kit-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google ML Kit">
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini">
 </p>
 
-## Atividade
+## 📊 Atividade
 
 <div align="center">
 
